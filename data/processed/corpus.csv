@@ -1,151 +1,299 @@
 texto,fonte,ano,decada,url,texto_limpo,score
-"Andavam todos nus, sem coisa alguma que lhes cobrisse suas vergonhas.",Carta de Caminha,1500,1500,http://exemplo.com/carta_de_caminha,andar nu algum eles cobrir vergonha,-0.5106
-"Traziam arcos nas mãos, e suas setas.",Carta de Caminha,1500,1500,http://exemplo.com/carta_de_caminha,trazer arco mão seta,0.0
-"Pareciam-me gente de tal inocência que, se homem os entendesse, seriam logo cristãos.",Carta de Caminha,1500,1500,http://exemplo.com/carta_de_caminha,gente inocência homem entender ser cristão,0.0258
-Os índios me perguntaram se eu era Pero ou se era francês.,Hans Staden,1557,1550,http://exemplo.com/hans_staden,índio perguntar pero francês,0.0
-"Tive medo de que me comessem, pois diziam que a carne de português é boa.",Hans Staden,1557,1550,http://exemplo.com/hans_staden,medo comess dizer carne português,0.0258
-"Eles não têm fé, nem lei, nem rei.",Pero de Magalhães Gândavo,1576,1570,http://exemplo.com/pero_de_magalhães_gândavo,fé lei rei,0.4588
-"A língua deles carece de F, L e R, o que mostra que não têm Fé, nem Lei, nem Rei.",Pero de Magalhães Gândavo,1576,1570,http://exemplo.com/pero_de_magalhães_gândavo,língua de eles carecer f l r mostrar fé lei rei,0.4588
-Os Tupinambás são muito fortes e correm mais que os europeus.,Jean de Léry,1578,1570,http://exemplo.com/jean_de_léry,tupinambá forte correr europeu,0.0
-Vi mulheres carregando seus filhos em redes enquanto trabalhavam.,Jean de Léry,1578,1570,http://exemplo.com/jean_de_léry,ver mulher carregar filho rede trabalhar,0.0
-Os Potiguaras dominam as terras do Norte com grande valentia.,Gabriel Soares de Sousa,1587,1580,http://exemplo.com/gabriel_soares_de_sousa,potiguara dominar terra norte valentia,0.4588
-As aldeias são cercadas por estacas de madeira para defesa.,Gabriel Soares de Sousa,1587,1580,http://exemplo.com/gabriel_soares_de_sousa,aldeia cercar estaca madeira defesa,-0.0516
-Muitos morrem de doenças que trazemos de além-mar.,José de Anchieta,1565,1560,http://exemplo.com/josé_de_anchieta,morrer doença trazer,-0.4939
-Aprendemos sua língua para melhor lhes ensinar a doutrina.,José de Anchieta,1560,1560,http://exemplo.com/josé_de_anchieta,aprender língua bom eles ensinar doutrina,0.1779
-Eles prezam muito a liberdade e não aceitam o jugo facilmente.,Manuel da Nóbrega,1555,1550,http://exemplo.com/manuel_da_nóbrega,prezar liberdade aceitar jugo facilmente,0.5574
-"Suas festas duram dias, com muita dança e cauim.",Jean de Léry,1578,1570,http://exemplo.com/jean_de_léry,festa durar dia muito dança cauim,0.4019
-Os franceses comercializam o pau-brasil com os nativos.,Hans Staden,1557,1550,http://exemplo.com/hans_staden,francês comercializar nativo,0.0
-Os índios do Rio Grande são exímios nadadores e pescadores.,Relato Jesuíta,1590,1590,http://exemplo.com/relato_jesuíta,índio rio exímio nadador pescador,0.4588
-A terra é graciosa e nela tudo que se planta dá.,Carta de Caminha,1500,1500,http://exemplo.com/carta_de_caminha,terra gracioso em ela plantar,0.0
-Vimos muitos papagaios e aves de cores vivas com os índios.,Carta de Caminha,1500,1500,http://exemplo.com/carta_de_caminha,vir papagaio ave cor vivo índio,0.0
-Eles usam pedras nos lábios e nas bochechas como adorno.,Jean de Léry,1578,1570,http://exemplo.com/jean_de_léry,usar pedra lábio bochecha adorno,0.3182
-Os velhos são muito respeitados e contam as histórias da tribo.,Gabriel Soares de Sousa,1587,1580,http://exemplo.com/gabriel_soares_de_sousa,velho respeitar contar história tribo,0.0
-O mel de abelhas silvestres é muito apreciado por eles.,Gabriel Soares de Sousa,1587,1580,http://exemplo.com/gabriel_soares_de_sousa,mel abelha silvestr apreciar,0.5106
-Eles conhecem bem as ervas medicinais da floresta.,José de Anchieta,1570,1570,http://exemplo.com/josé_de_anchieta,conhecer erva medicinal floresta,0.2732
-Os casamentos entre tribos diferentes servem para selar a paz.,Manuel da Nóbrega,1549,1540,http://exemplo.com/manuel_da_nóbrega,casamento tribo diferente servir selar paz,0.3612
-O pau-brasil é a principal riqueza que buscam nesta costa.,Pero de Magalhães Gândavo,1576,1570,http://exemplo.com/pero_de_magalhães_gândavo,principal riqueza buscar costa,0.5267
-"Andavam todos nus, sem coisa alguma que lhes cobrisse suas vergonhas.",Carta de Caminha,1500,1500,http://exemplo.com/carta_de_caminha,andar nu algum eles cobrir vergonha,-0.5106
-"Traziam arcos nas mãos, e suas setas.",Carta de Caminha,1500,1500,http://exemplo.com/carta_de_caminha,trazer arco mão seta,0.0
-"Pareciam-me gente de tal inocência que, se homem os entendesse, seriam logo cristãos.",Carta de Caminha,1500,1500,http://exemplo.com/carta_de_caminha,gente inocência homem entender ser cristão,0.0258
-Os índios me perguntaram se eu era Pero ou se era francês.,Hans Staden,1557,1550,http://exemplo.com/hans_staden,índio perguntar pero francês,0.0
-"Tive medo de que me comessem, pois diziam que a carne de português é boa.",Hans Staden,1557,1550,http://exemplo.com/hans_staden,medo comess dizer carne português,0.0258
-"Eles não têm fé, nem lei, nem rei.",Pero de Magalhães Gândavo,1576,1570,http://exemplo.com/pero_de_magalhães_gândavo,fé lei rei,0.4588
-"A língua deles carece de F, L e R, o que mostra que não têm Fé, nem Lei, nem Rei.",Pero de Magalhães Gândavo,1576,1570,http://exemplo.com/pero_de_magalhães_gândavo,língua de eles carecer f l r mostrar fé lei rei,0.4588
-Os Tupinambás são muito fortes e correm mais que os europeus.,Jean de Léry,1578,1570,http://exemplo.com/jean_de_léry,tupinambá forte correr europeu,0.0
-Vi mulheres carregando seus filhos em redes enquanto trabalhavam.,Jean de Léry,1578,1570,http://exemplo.com/jean_de_léry,ver mulher carregar filho rede trabalhar,0.0
-Os Potiguaras dominam as terras do Norte com grande valentia.,Gabriel Soares de Sousa,1587,1580,http://exemplo.com/gabriel_soares_de_sousa,potiguara dominar terra norte valentia,0.4588
-As aldeias são cercadas por estacas de madeira para defesa.,Gabriel Soares de Sousa,1587,1580,http://exemplo.com/gabriel_soares_de_sousa,aldeia cercar estaca madeira defesa,-0.0516
-Muitos morrem de doenças que trazemos de além-mar.,José de Anchieta,1565,1560,http://exemplo.com/josé_de_anchieta,morrer doença trazer,-0.4939
-Aprendemos sua língua para melhor lhes ensinar a doutrina.,José de Anchieta,1560,1560,http://exemplo.com/josé_de_anchieta,aprender língua bom eles ensinar doutrina,0.1779
-Eles prezam muito a liberdade e não aceitam o jugo facilmente.,Manuel da Nóbrega,1555,1550,http://exemplo.com/manuel_da_nóbrega,prezar liberdade aceitar jugo facilmente,0.5574
-"Suas festas duram dias, com muita dança e cauim.",Jean de Léry,1578,1570,http://exemplo.com/jean_de_léry,festa durar dia muito dança cauim,0.4019
-Os franceses comercializam o pau-brasil com os nativos.,Hans Staden,1557,1550,http://exemplo.com/hans_staden,francês comercializar nativo,0.0
-Os índios do Rio Grande são exímios nadadores e pescadores.,Relato Jesuíta,1590,1590,http://exemplo.com/relato_jesuíta,índio rio exímio nadador pescador,0.4588
-A terra é graciosa e nela tudo que se planta dá.,Carta de Caminha,1500,1500,http://exemplo.com/carta_de_caminha,terra gracioso em ela plantar,0.0
-Vimos muitos papagaios e aves de cores vivas com os índios.,Carta de Caminha,1500,1500,http://exemplo.com/carta_de_caminha,vir papagaio ave cor vivo índio,0.0
-Eles usam pedras nos lábios e nas bochechas como adorno.,Jean de Léry,1578,1570,http://exemplo.com/jean_de_léry,usar pedra lábio bochecha adorno,0.3182
-Os velhos são muito respeitados e contam as histórias da tribo.,Gabriel Soares de Sousa,1587,1580,http://exemplo.com/gabriel_soares_de_sousa,velho respeitar contar história tribo,0.0
-O mel de abelhas silvestres é muito apreciado por eles.,Gabriel Soares de Sousa,1587,1580,http://exemplo.com/gabriel_soares_de_sousa,mel abelha silvestr apreciar,0.5106
-Eles conhecem bem as ervas medicinais da floresta.,José de Anchieta,1570,1570,http://exemplo.com/josé_de_anchieta,conhecer erva medicinal floresta,0.2732
-Os casamentos entre tribos diferentes servem para selar a paz.,Manuel da Nóbrega,1549,1540,http://exemplo.com/manuel_da_nóbrega,casamento tribo diferente servir selar paz,0.3612
-O pau-brasil é a principal riqueza que buscam nesta costa.,Pero de Magalhães Gândavo,1576,1570,http://exemplo.com/pero_de_magalhães_gândavo,principal riqueza buscar costa,0.5267
-A Guerra dos Bárbaros continua assolando o sertão do Rio Grande.,Relatório Militar,1705,1700,http://exemplo.com/relatório_militar,guerra bárbaro continuar assolar sertão rio,-0.1027
-Os Tapuias resistem à ocupação de suas terras por fazendeiros de gado.,Carta Administrativa,1715,1710,http://exemplo.com/carta_administrativa,tapuia resistir ocupação terra fazendeiro gado,-0.296
-Foi ordenada a criação da Missão de São João Batista para os índios.,Ordem Régia,1720,1720,http://exemplo.com/ordem_régia,ordenar criação missão João batista índio,0.128
-Os índios aldeados devem ser instruídos na língua portuguesa.,Diretório dos Índios,1758,1750,http://exemplo.com/diretório_dos_índios,índio aldear instruír língua português,0.0
-A vila de Estremoz abriga descendentes dos antigos potiguaras.,Registro Paroquial,1760,1760,http://exemplo.com/registro_paroquial,vila estremoz abrigar descendente antigo potiguara,0.0
-Conflitos por terra entre colonos e nativos são frequentes no Seridó.,Ofício Colonial,1745,1740,http://exemplo.com/ofício_colonial,conflito terra colono nativo frequente seridó,-0.3818
-As missões jesuítas foram transferidas para o controle de diretores leigos.,Reforma Pombalina,1759,1750,http://exemplo.com/reforma_pombalina,missão jesuíta transferir controle diretor leigo,-0.1531
-Os índios de Vila Flor reclamam da falta de terras para plantio.,Petição Indígena,1780,1780,http://exemplo.com/petição_indígena,índio Vila flor reclamar terra plantio,-0.4404
-A resistência nos cariris dificulta a colonização do interior.,Correspondência de Guerra,1710,1710,http://exemplo.com/correspondência_de_guerra,resistência cariris dificultar colonização interior,0.0
-O capitão-mor solicita reforços contra os ataques de índios bravos.,Ofício ao Rei,1702,1700,http://exemplo.com/ofício_ao_rei,solicitar reforço ataque índio bravo,-0.4404
-Muitos índios fogem das missões para viver nos matos.,Relato de Missionário,1730,1730,http://exemplo.com/relato_de_missionário,índio fogir missão viver mato,-0.1531
-As aldeias devem fornecer braços para as obras públicas da capitania.,Ordem Administrativa,1770,1770,http://exemplo.com/ordem_administrativa,aldeia fornecer braço obra público capitania,-0.1531
-"O comércio com os índios deve ser feito de forma justa, sem enganos.",Instrução Real,1755,1750,http://exemplo.com/instrução_real,comércio índio fazer justo engano,0.0
-A demarcação das sesmarias ignora as posses ancestrais dos nativos.,Relatório de Ouvidor,1765,1760,http://exemplo.com/relatório_de_ouvidor,demarcação sesmaria ignorar posse ancestral nativo,-0.2732
-Os índios da Aldeia Velha mantêm rituais em segredo.,Inquisição - Visitação,1790,1790,http://exemplo.com/inquisição_-_visitação,índio aldeia velho manter ritual segredo,0.0
-A febre e a varíola dizimaram metade da população da aldeia.,Livro de Óbitos,1748,1740,http://exemplo.com/livro_de_óbitos,febre varíola dizimar metade população aldeia,0.0
-Propõe-se a miscigenação para civilizar os remanescentes indígenas.,Tratado Político,1775,1770,http://exemplo.com/tratado_político,miscigenação civilizar remanescente indígena,-0.1531
-O cacique da aldeia de Guarairas solicita o título de capitão-mor.,Requerimento,1735,1730,http://exemplo.com/requerimento,cacique aldeia guaraira solicitar título,0.0
-Os Tapuias Janduís são o maior obstáculo à expansão do gado.,Crônica de Conquista,1708,1700,http://exemplo.com/crônica_de_conquista,tapuia janduís obstáculo expansão gado,0.4019
-Aldeamentos são transformados em vilas por decreto real.,Alvará de 1758,1758,1750,http://exemplo.com/alvará_de_1758,aldeamento transformar vila decreto real,0.0
-Os índios são obrigados a pagar o dízimo da produção de algodão.,Documento Eclesiástico,1785,1780,http://exemplo.com/documento_eclesiástico,índio obrigar pagar dízimo produção algodão,0.0
-A fuga para o sertão de Pernambuco é comum entre os rebeldes.,Relatório de Fronteira,1725,1720,http://exemplo.com/relatório_de_fronteira,fuga sertão pernambuco comum rebelde,-0.5859
-A pesca na lagoa de Extremoz é garantida aos índios por lei.,Provisão Régia,1762,1760,http://exemplo.com/provisão_régia,pesca lagoa extremoz garantir índio lei,0.34
-Muitos índios servem como guias nas expedições ao interior.,Diário de Marcha,1712,1710,http://exemplo.com/diário_de_marcha,índio servir guia expedição interior,0.0
-A língua geral ainda é ouvida nas vilas do litoral.,Relato de Viajante,1795,1790,http://exemplo.com/relato_de_viajante,língua ouver vila litoral,0.0
-A Guerra dos Bárbaros continua assolando o sertão do Rio Grande.,Relatório Militar,1705,1700,http://exemplo.com/relatório_militar,guerra bárbaro continuar assolar sertão rio,-0.1027
-Os Tapuias resistem à ocupação de suas terras por fazendeiros de gado.,Carta Administrativa,1715,1710,http://exemplo.com/carta_administrativa,tapuia resistir ocupação terra fazendeiro gado,-0.296
-Foi ordenada a criação da Missão de São João Batista para os índios.,Ordem Régia,1720,1720,http://exemplo.com/ordem_régia,ordenar criação missão João batista índio,0.128
-Os índios aldeados devem ser instruídos na língua portuguesa.,Diretório dos Índios,1758,1750,http://exemplo.com/diretório_dos_índios,índio aldear instruír língua português,0.0
-A vila de Estremoz abriga descendentes dos antigos potiguaras.,Registro Paroquial,1760,1760,http://exemplo.com/registro_paroquial,vila estremoz abrigar descendente antigo potiguara,0.0
-Conflitos por terra entre colonos e nativos são frequentes no Seridó.,Ofício Colonial,1745,1740,http://exemplo.com/ofício_colonial,conflito terra colono nativo frequente seridó,-0.3818
-As missões jesuítas foram transferidas para o controle de diretores leigos.,Reforma Pombalina,1759,1750,http://exemplo.com/reforma_pombalina,missão jesuíta transferir controle diretor leigo,-0.1531
-Os índios de Vila Flor reclamam da falta de terras para plantio.,Petição Indígena,1780,1780,http://exemplo.com/petição_indígena,índio Vila flor reclamar terra plantio,-0.4404
-A resistência nos cariris dificulta a colonização do interior.,Correspondência de Guerra,1710,1710,http://exemplo.com/correspondência_de_guerra,resistência cariris dificultar colonização interior,0.0
-O capitão-mor solicita reforços contra os ataques de índios bravos.,Ofício ao Rei,1702,1700,http://exemplo.com/ofício_ao_rei,solicitar reforço ataque índio bravo,-0.4404
-Muitos índios fogem das missões para viver nos matos.,Relato de Missionário,1730,1730,http://exemplo.com/relato_de_missionário,índio fogir missão viver mato,-0.1531
-As aldeias devem fornecer braços para as obras públicas da capitania.,Ordem Administrativa,1770,1770,http://exemplo.com/ordem_administrativa,aldeia fornecer braço obra público capitania,-0.1531
-"O comércio com os índios deve ser feito de forma justa, sem enganos.",Instrução Real,1755,1750,http://exemplo.com/instrução_real,comércio índio fazer justo engano,0.0
-A demarcação das sesmarias ignora as posses ancestrais dos nativos.,Relatório de Ouvidor,1765,1760,http://exemplo.com/relatório_de_ouvidor,demarcação sesmaria ignorar posse ancestral nativo,-0.2732
-Os índios da Aldeia Velha mantêm rituais em segredo.,Inquisição - Visitação,1790,1790,http://exemplo.com/inquisição_-_visitação,índio aldeia velho manter ritual segredo,0.0
-A febre e a varíola dizimaram metade da população da aldeia.,Livro de Óbitos,1748,1740,http://exemplo.com/livro_de_óbitos,febre varíola dizimar metade população aldeia,0.0
-Propõe-se a miscigenação para civilizar os remanescentes indígenas.,Tratado Político,1775,1770,http://exemplo.com/tratado_político,miscigenação civilizar remanescente indígena,-0.1531
-O cacique da aldeia de Guarairas solicita o título de capitão-mor.,Requerimento,1735,1730,http://exemplo.com/requerimento,cacique aldeia guaraira solicitar título,0.0
-Os Tapuias Janduís são o maior obstáculo à expansão do gado.,Crônica de Conquista,1708,1700,http://exemplo.com/crônica_de_conquista,tapuia janduís obstáculo expansão gado,0.4019
-Aldeamentos são transformados em vilas por decreto real.,Alvará de 1758,1758,1750,http://exemplo.com/alvará_de_1758,aldeamento transformar vila decreto real,0.0
-Os índios são obrigados a pagar o dízimo da produção de algodão.,Documento Eclesiástico,1785,1780,http://exemplo.com/documento_eclesiástico,índio obrigar pagar dízimo produção algodão,0.0
-A fuga para o sertão de Pernambuco é comum entre os rebeldes.,Relatório de Fronteira,1725,1720,http://exemplo.com/relatório_de_fronteira,fuga sertão pernambuco comum rebelde,-0.5859
-A pesca na lagoa de Extremoz é garantida aos índios por lei.,Provisão Régia,1762,1760,http://exemplo.com/provisão_régia,pesca lagoa extremoz garantir índio lei,0.34
-Muitos índios servem como guias nas expedições ao interior.,Diário de Marcha,1712,1710,http://exemplo.com/diário_de_marcha,índio servir guia expedição interior,0.0
-A língua geral ainda é ouvida nas vilas do litoral.,Relato de Viajante,1795,1790,http://exemplo.com/relato_de_viajante,língua ouver vila litoral,0.0
-O SPI estabelece o Posto Indígena para proteção dos Potiguaras.,Boletim do SPI,1912,1910,http://exemplo.com/boletim_do_spi,spi estabelecer posto indígena proteção potiguara,-0.1531
-As comunidades de Catu e Baía da Traição mantêm forte identidade.,Relatório Antropológico,1930,1930,http://exemplo.com/relatório_antropológico,comunidade catu baía traição manter forte identidade,-0.5267
-Os índios reivindicam a posse da terra no Amarelão.,Jornal de Natal,1975,1970,http://exemplo.com/jornal_de_natal,índio reivindicar posse terra amarelão,0.0
-A Constituição de 1988 garante o direito originário às terras.,Constituição Federal,1988,1980,http://exemplo.com/constituição_federal,constituição garantir direito originário terra,0.0
-O ressurgimento da identidade Potiguara marca o final do século.,Estudo Sociológico,1995,1990,http://exemplo.com/estudo_sociológico,ressurgimento identidade potiguara marca século,0.0
-A FUNAI inicia o levantamento fundiário na região de Canguaretama.,Diário Oficial,1982,1980,http://exemplo.com/diário_oficial,funai iniciar levantamento fundiário região canguaretama,0.0
-Lideranças indígenas participam de encontro nacional em Brasília.,Notícia de Jornal,1980,1980,http://exemplo.com/notícia_de_jornal,liderança indígena participar encontro nacional brasília,0.0
-A comunidade de Tapará luta pelo reconhecimento como quilombola e indígena.,Revista de História,1992,1990,http://exemplo.com/revista_de_história,comunidade tapar luta reconhecimento quilombola indígena,-0.3182
-A escola indígena preserva os costumes e a história dos antepassados.,Secretaria de Educação,1998,1990,http://exemplo.com/secretaria_de_educação,escola indígena preservar costume história antepassado,0.0
-A resistência no sertão do Apodi ganha visibilidade acadêmica.,Tese de Doutorado,1990,1990,http://exemplo.com/tese_de_doutorado,resistência sertão apodi ganhar visibilidade acadêmico,0.5719
-O artesanato de palha é a principal fonte de renda na aldeia.,Reportagem de TV,1960,1960,http://exemplo.com/reportagem_de_tv,artesanato palha principal fonte renda aldeia,0.3612
-Os Potiguaras do Sagi-Trabanda celebram o Dia do Índio.,Blog de Notícias,1999,1990,http://exemplo.com/blog_de_notícias,potiguara celebrar dia índio,0.0
-Processos de etnogênese são observados no Rio Grande do Norte.,Congresso de Antropologia,1994,1990,http://exemplo.com/congresso_de_antropologia,processo etnogênese observar rio norte,0.4588
-O Marechal Rondon visita o posto de proteção aos índios no RN.,Arquivo Histórico,1920,1920,http://exemplo.com/arquivo_histórico,marechal Rondon visitar posto proteção índio rn,0.0
-A ditadura militar impactou severamente as terras indígenas.,Comissão da Verdade,1978,1970,http://exemplo.com/comissão_da_verdade,ditadura militar impactar severamente terra indígena,-0.4588
-A demarcação da Terra Indígena Katu-Baía do Traíra é urgente.,Manifesto Indígena,1985,1980,http://exemplo.com/manifesto_indígena,demarcação terra indígena traíra urgente,0.2023
-Festas de toré reúnem diferentes comunidades do litoral.,Relato Etnográfico,1997,1990,http://exemplo.com/relato_etnográfico,festa toré reúnem diferentes comunidade litoral,0.4019
-O preconceito contra os caboclos esconde a origem indígena.,Artigo de Opinião,1950,1950,http://exemplo.com/artigo_de_opinião,preconceito caboclo esconder origem indígena,-0.6369
-A migração para as cidades não apaga os laços com a aldeia.,Entrevista,1970,1970,http://exemplo.com/entrevista,migração cidade apagar laço aldeia,-0.4215
-O uso do nome indígena é retomado por jovens da comunidade.,Registro Civil,1993,1990,http://exemplo.com/registro_civil,uso nome indígena retomar jovem comunidade,0.0
-Músicas e rezas antigas são gravadas por pesquisadores.,Acervo Sonoro,1940,1940,http://exemplo.com/acervo_sonoro,música reza antigo gravar pesquisador,0.0
-A pesca artesanal enfrenta a concorrência das grandes traineiras.,Sindicato da Pesca,1987,1980,http://exemplo.com/sindicato_da_pesca,pesca artesanal enfrentar concorrência traineira,0.296
-A luta pela terra é a base da organização política indígena.,Movimento Social,1989,1980,http://exemplo.com/movimento_social,luta terra base organização político indígena,-0.3182
-Reconhecimento das comunidades remanescentes de povos originários.,Lei Estadual,1996,1990,http://exemplo.com/lei_estadual,reconhecimento comunidade remanescente povo originário,0.0
-Identidade e território: o desafio dos povos do RN.,Seminário UFRN,1991,1990,http://exemplo.com/seminário_ufrn,identidade território desafio povo rn,0.0772
-O SPI estabelece o Posto Indígena para proteção dos Potiguaras.,Boletim do SPI,1912,1910,http://exemplo.com/boletim_do_spi,spi estabelecer posto indígena proteção potiguara,-0.1531
-As comunidades de Catu e Baía da Traição mantêm forte identidade.,Relatório Antropológico,1930,1930,http://exemplo.com/relatório_antropológico,comunidade catu baía traição manter forte identidade,-0.5267
-Os índios reivindicam a posse da terra no Amarelão.,Jornal de Natal,1975,1970,http://exemplo.com/jornal_de_natal,índio reivindicar posse terra amarelão,0.0
-A Constituição de 1988 garante o direito originário às terras.,Constituição Federal,1988,1980,http://exemplo.com/constituição_federal,constituição garantir direito originário terra,0.0
-O ressurgimento da identidade Potiguara marca o final do século.,Estudo Sociológico,1995,1990,http://exemplo.com/estudo_sociológico,ressurgimento identidade potiguara marca século,0.0
-A FUNAI inicia o levantamento fundiário na região de Canguaretama.,Diário Oficial,1982,1980,http://exemplo.com/diário_oficial,funai iniciar levantamento fundiário região canguaretama,0.0
-Lideranças indígenas participam de encontro nacional em Brasília.,Notícia de Jornal,1980,1980,http://exemplo.com/notícia_de_jornal,liderança indígena participar encontro nacional brasília,0.0
-A comunidade de Tapará luta pelo reconhecimento como quilombola e indígena.,Revista de História,1992,1990,http://exemplo.com/revista_de_história,comunidade tapar luta reconhecimento quilombola indígena,-0.3182
-A escola indígena preserva os costumes e a história dos antepassados.,Secretaria de Educação,1998,1990,http://exemplo.com/secretaria_de_educação,escola indígena preservar costume história antepassado,0.0
-A resistência no sertão do Apodi ganha visibilidade acadêmica.,Tese de Doutorado,1990,1990,http://exemplo.com/tese_de_doutorado,resistência sertão apodi ganhar visibilidade acadêmico,0.5719
-O artesanato de palha é a principal fonte de renda na aldeia.,Reportagem de TV,1960,1960,http://exemplo.com/reportagem_de_tv,artesanato palha principal fonte renda aldeia,0.3612
-Os Potiguaras do Sagi-Trabanda celebram o Dia do Índio.,Blog de Notícias,1999,1990,http://exemplo.com/blog_de_notícias,potiguara celebrar dia índio,0.0
-Processos de etnogênese são observados no Rio Grande do Norte.,Congresso de Antropologia,1994,1990,http://exemplo.com/congresso_de_antropologia,processo etnogênese observar rio norte,0.4588
-O Marechal Rondon visita o posto de proteção aos índios no RN.,Arquivo Histórico,1920,1920,http://exemplo.com/arquivo_histórico,marechal Rondon visitar posto proteção índio rn,0.0
-A ditadura militar impactou severamente as terras indígenas.,Comissão da Verdade,1978,1970,http://exemplo.com/comissão_da_verdade,ditadura militar impactar severamente terra indígena,-0.4588
-A demarcação da Terra Indígena Katu-Baía do Traíra é urgente.,Manifesto Indígena,1985,1980,http://exemplo.com/manifesto_indígena,demarcação terra indígena traíra urgente,0.2023
-Festas de toré reúnem diferentes comunidades do litoral.,Relato Etnográfico,1997,1990,http://exemplo.com/relato_etnográfico,festa toré reúnem diferentes comunidade litoral,0.4019
-O preconceito contra os caboclos esconde a origem indígena.,Artigo de Opinião,1950,1950,http://exemplo.com/artigo_de_opinião,preconceito caboclo esconder origem indígena,-0.6369
-A migração para as cidades não apaga os laços com a aldeia.,Entrevista,1970,1970,http://exemplo.com/entrevista,migração cidade apagar laço aldeia,-0.4215
-O uso do nome indígena é retomado por jovens da comunidade.,Registro Civil,1993,1990,http://exemplo.com/registro_civil,uso nome indígena retomar jovem comunidade,0.0
-Músicas e rezas antigas são gravadas por pesquisadores.,Acervo Sonoro,1940,1940,http://exemplo.com/acervo_sonoro,música reza antigo gravar pesquisador,0.0
-A pesca artesanal enfrenta a concorrência das grandes traineiras.,Sindicato da Pesca,1987,1980,http://exemplo.com/sindicato_da_pesca,pesca artesanal enfrentar concorrência traineira,0.296
-A luta pela terra é a base da organização política indígena.,Movimento Social,1989,1980,http://exemplo.com/movimento_social,luta terra base organização político indígena,-0.3182
-Reconhecimento das comunidades remanescentes de povos originários.,Lei Estadual,1996,1990,http://exemplo.com/lei_estadual,reconhecimento comunidade remanescente povo originário,0.0
-Identidade e território: o desafio dos povos do RN.,Seminário UFRN,1991,1990,http://exemplo.com/seminário_ufrn,identidade território desafio povo rn,0.0772
+"Andavam todos nus, sem coisa alguma que lhes cobrisse suas vergonhas.",Carta de Pero Vaz de Caminha,1500,1500,https://pt.wikisource.org/wiki/Carta_a_El-Rei_D._Manuel,andar nu algum eles cobrir vergonha,-0.5106
+"Parece-me gente de tal inocência que, se nós entendêssemos a sua fala e eles a nossa, seriam logo cristãos.",Carta de Pero Vaz de Caminha,1500,1500,https://pt.wikisource.org/wiki/Carta_a_El-Rei_D._Manuel,gente inocência entendêsse falar ser cristão,0.4404
+"Eles não lavram nem criam. Não há aqui boi, nem vaca, nem cabra, nem ovelha, nem galinha.",Carta de Pero Vaz de Caminha,1500,1500,https://pt.wikisource.org/wiki/Carta_a_El-Rei_D._Manuel,lavrar criar haver boi vaca cabra ovelha galinha,-0.25
+"Esta terra, Senhor, é nela tanto fruto que a não há de crer.",Carta de Pero Vaz de Caminha,1500,1500,https://pt.wikisource.org/wiki/Carta_a_El-Rei_D._Manuel,terra senhor em ela fruto haver crer,0.0516
+"Eles não têm fé, nem lei, nem rei. Vivem segundo a natureza.",Pero de Magalhães Gândavo,1576,1570,https://archive.org/details/historiadaprovinc00gand,fé lei rei viver natureza,0.4588
+"A língua de que usam, toda pela costa, é uma: ainda que em certos vocábulos difere em algumas partes.",Pero de Magalhães Gândavo,1576,1570,https://archive.org/details/historiadaprovinc00gand,língua usar costa certos vocábulo diferir parte,0.0
+"Carecem de três letras, convém a saber, não se acha nela F, nem L, nem R, coisa digna de espanto.",Pero de Magalhães Gândavo,1576,1570,https://archive.org/details/historiadaprovinc00gand,carecer letra convém achar em ele f l r digno espanto,0.6369
+"Costumam estes índios comer carne humana, e para isso fazem grandes guerras uns aos outros.",Pero de Magalhães Gândavo,1576,1570,https://archive.org/details/historiadaprovinc00gand,costumar índio comer carne humano guerra,-0.4588
+Os Potiguaras são os mais valentes e belicosos de toda esta costa.,Gabriel Soares de Sousa,1587,1580,https://archive.org/details/tratadodescritiv00sous,potiguara valente belicoso costa,0.0
+Habitavam nas margens do Rio Grande e eram amigos dos franceses.,Gabriel Soares de Sousa,1587,1580,https://archive.org/details/tratadodescritiv00sous,habitar margem rio ser amigo francês,0.7269
+As mulheres são muito sujeitas a seus maridos e trabalham muito mais que eles.,Gabriel Soares de Sousa,1587,1580,https://archive.org/details/tratadodescritiv00sous,mulher sujeito marido trabalhar,0.0
+Trazem os beiços furados e neles metem umas pedras verdes ou ossos.,Jean de Léry,1578,1570,https://archive.org/details/viagematerra00lery,trazer beiço furar nelel meter pedra verde osso,0.0
+"A antropofagia entre eles não é por fome, mas por vingança dos inimigos.",Jean de Léry,1578,1570,https://archive.org/details/viagematerra00lery,antropofagia fome vingança inimigo,-0.8968
+Choram a morte dos seus com grandes gritos e lamentações que duram muitos dias.,Jean de Léry,1578,1570,https://archive.org/details/viagematerra00lery,chorar morte grito lamentação durar dia,-0.7783
+A catequese destes bárbaros exige paciência e o exemplo das virtudes.,Padre Manuel da Nóbrega,1549,1540,https://archive.org/details/cartasdobrasil00nobr,catequese de este bárbaro exigir paciência virtude,0.7184
+São como uma tábua rasa onde se pode escrever o que se quiser.,Padre José de Anchieta,1560,1560,https://archive.org/details/cartasdeanchieta00anch,tábua rasa escrever querer,0.0
+Aprendi a língua deles para melhor lhes pregar a palavra de Deus.,Padre José de Anchieta,1560,1560,https://archive.org/details/cartasdeanchieta00anch,aprender língua de eles bom eles pregar palavra deus,0.5267
+Os índios do Rio Grande resistiram por muito tempo à nossa entrada.,Diogo de Campos Moreno,1612,1610,https://archive.org/details/jornadadomaranhao00more,índio rio resistir entrada,0.4588
+Os franceses tratam os índios com mais brandura para os ter a seu lado.,Gabriel Soares de Sousa,1587,1580,https://archive.org/details/tratadodescritiv00sous,francês tratar índio brandura,-0.1531
+Suas aldeias são compostas de grandes casas de palha onde vivem muitas famílias.,Hans Staden,1557,1550,https://archive.org/details/duasviagensaobrasil00stad,aldeia compor casa palha viver muito família,0.296
+Fui levado para a aldeia para ser comido em uma de suas festas.,Hans Staden,1557,1550,https://archive.org/details/duasviagensaobrasil00stad,levar aldeia comer festa,0.128
+Eles pintam o corpo com urucu e jenipapo para as batalhas.,Fernão Cardim,1584,1580,https://archive.org/details/tratadosdaterra00card,pintar corpo urucu jenipapo batalha,-0.4939
+A terra do Rio Grande é muito fértil e cheia de gentes bravas.,Pero de Magalhães Gândavo,1576,1570,https://archive.org/details/historiadaprovinc00gand,terra rio fértil cheio gente bravo,0.4588
+"Não possuem ídolos nem adoram deuses, mas temem o Curupira.",Padre José de Anchieta,1560,1560,https://archive.org/details/cartasdeanchieta00anch,possuir ídolo adorar deuse temer curupira,-0.1531
+A guerra é a principal ocupação dos homens nestas tribos.,Gabriel Soares de Sousa,1587,1580,https://archive.org/details/tratadodescritiv00sous,guerra principal ocupação homem em este tribo,-0.5267
+Os velhos contam histórias das antigas migrações dos seus antepassados.,Fernão Cardim,1584,1580,https://archive.org/details/tratadosdaterra00card,velho contar história antigo migração antepassado,0.0
+Fazem de barro cozido vasos e panelas de muita formosura.,Jean de Léry,1578,1570,https://archive.org/details/viagematerra00lery,barro cozer vaso panela muito formosura,0.0
+A rede de dormir é uma invenção admirável destes naturais.,Hans Staden,1557,1550,https://archive.org/details/duasviagensaobrasil00stad,rede dormir invenção admirável de este natural,0.5574
+O fumo de tabaco é usado em suas cerimônias e para curar doenças.,Fernão Cardim,1584,1580,https://archive.org/details/tratadosdaterra00card,fumo tabaco usar cerimônia curar doença,-0.7184
+Os Potiguaras dominavam o litoral desde o Paraíba até o Rio Grande.,Gabriel Soares de Sousa,1587,1580,https://archive.org/details/tratadodescritiv00sous,potiguara dominar litoral paraíba rio,0.4588
+As crianças índias aprendem a manejar o arco desde muito pequenas.,Jean de Léry,1578,1570,https://archive.org/details/viagematerra00lery,criança índia aprender manejar arco pequeno,0.0
+A caça e a pesca fornecem a maior parte de seu sustento.,Pero de Magalhães Gândavo,1576,1570,https://archive.org/details/historiadaprovinc00gand,caça pesca fornecer sustento,0.6369
+Eles acreditam que os seus antepassados vivem atrás das montanhas.,Hans Staden,1557,1550,https://archive.org/details/duasviagensaobrasil00stad,acreditar antepassado viver montanha,0.0
+Os pajés exercem grande influência sobre toda a aldeia.,Padre Manuel da Nóbrega,1549,1540,https://archive.org/details/cartasdobrasil00nobr,pajé exercer influência aldeia,0.4588
+A chegada dos homens brancos foi vista como o retorno de divindades.,Fernão Cardim,1584,1580,https://archive.org/details/tratadosdaterra00card,chegada homem branco ver retorno divindade,0.4215
+Os Tapuias habitam o interior e são inimigos dos Potiguaras.,Gabriel Soares de Sousa,1587,1580,https://archive.org/details/tratadodescritiv00sous,tapuia habitar interior inimigo potiguara,-0.4588
+Os Tapuias não vivem em aldeias fixas como os da costa.,Pero de Magalhães Gândavo,1576,1570,https://archive.org/details/historiadaprovinc00gand,tapuia viver aldeia fixo costa,-0.296
+A língua dos Tapuias é travosa e muito diferente da geral.,Gabriel Soares de Sousa,1587,1580,https://archive.org/details/tratadodescritiv00sous,língua tapuia travoso diferente,0.0
+As lutas entre as nações indígenas facilitaram a conquista da terra.,Padre Manuel da Nóbrega,1549,1540,https://archive.org/details/cartasdobrasil00nobr,luta nação indígena facilitar conquista terra,-0.3612
+Muitos morreram de doenças que trouxemos de além-mar.,Padre José de Anchieta,1560,1560,https://archive.org/details/cartasdeanchieta00anch,morrer doença trouxer,-0.4939
+O mel de abelhas silvestres é muito apreciado por eles.,Jean de Léry,1578,1570,https://archive.org/details/viagematerra00lery,mel abelha silvestr apreciar,0.5106
+Eles não conhecem o valor do ouro nem da prata.,Hans Staden,1557,1550,https://archive.org/details/duasviagensaobrasil00stad,conhecer ouro prata,0.0516
+A nudez deles não nos pareceu indecente após algum tempo.,Jean de Léry,1578,1570,https://archive.org/details/viagematerra00lery,nudez de eles parecer indecente algum,-0.296
+A lealdade aos amigos é uma virtude forte entre os indígenas.,Gabriel Soares de Sousa,1587,1580,https://archive.org/details/tratadodescritiv00sous,lealdade amigo virtude forte indígena,0.7506
+Os franceses trocavam espelhos e facas pelo pau-brasil.,Jean de Léry,1578,1570,https://archive.org/details/viagematerra00lery,francês trocar espelho faca,0.0
+Os índios cortavam a madeira e a carregavam até os navios.,Pero de Magalhães Gândavo,1576,1570,https://archive.org/details/historiadaprovinc00gand,índio cortar madeira carregar navio,0.0
+O Rio Grande é riquíssimo em peixes de todas as espécies.,Gabriel Soares de Sousa,1587,1580,https://archive.org/details/tratadodescritiv00sous,rio riquíssimo peixe espécie,0.4588
+A mandioca é a raiz principal de que fazem a sua farinha.,Fernão Cardim,1584,1580,https://archive.org/details/tratadosdaterra00card,mandioca raiz principal farinha,0.0
+Preparam uma bebida chamada cauim que os deixa muito alegres.,Hans Staden,1557,1550,https://archive.org/details/duasviagensaobrasil00stad,preparar bebida chamar cauim deixar alegr,0.0
+As penas de pássaros coloridos servem para seus enfeites.,Jean de Léry,1578,1570,https://archive.org/details/viagematerra00lery,pena pássaro colorir servir enfeite,-0.1531
+As canoas são feitas de um só tronco de árvore escavado.,Pero de Magalhães Gândavo,1576,1570,https://archive.org/details/historiadaprovinc00gand,canoa fazer tronco árvore escavar,0.0
+A destreza com que nadam nos rios é espantosa.,Padre José de Anchieta,1560,1560,https://archive.org/details/cartasdeanchieta00anch,destreza nadar rio espantoso,0.0
+O respeito aos anciãos é base da organização social.,Gabriel Soares de Sousa,1587,1580,https://archive.org/details/tratadodescritiv00sous,respeito ancião base organização social,0.3182
+Não existem prisões nem leis escritas entre estes povos.,Jean de Léry,1578,1570,https://archive.org/details/viagematerra00lery,existir prisão lei escritas povo,-0.6249
+A hospitalidade com os viajantes é sempre generosa.,Hans Staden,1557,1550,https://archive.org/details/duasviagensaobrasil00stad,hospitalidade viajante generoso,0.0
+A memória dos seus mortos é guardada com grande reverência.,Fernão Cardim,1584,1580,https://archive.org/details/tratadosdaterra00card,memória morto guardar reverência,0.4588
+Os primeiros batismos foram realizados em meio a grande festa.,Padre Manuel da Nóbrega,1549,1540,https://archive.org/details/cartasdobrasil00nobr,primeiro batismo realizar festa,0.6808
+Eles aprendem os cantos da igreja com muita facilidade.,Padre José de Anchieta,1560,1560,https://archive.org/details/cartasdeanchieta00anch,aprender canto igreja muito facilidade,0.3612
+A agricultura é simples e feita com o auxílio do fogo.,Pero de Magalhães Gândavo,1576,1570,https://archive.org/details/historiadaprovinc00gand,agricultura simples fazer auxílio fogo,-0.34
+Colhem o milho duas vezes por ano nesta terra generosa.,Gabriel Soares de Sousa,1587,1580,https://archive.org/details/tratadodescritiv00sous,colher milho ano terra generoso,0.0
+As redes de pesca são tecidas com fibras de palmeiras.,Jean de Léry,1578,1570,https://archive.org/details/viagematerra00lery,rede pesca tecir fibra palmeira,0.0
+Os Potiguaras defendiam suas terras com grande valentia.,Fernão Cardim,1584,1580,https://archive.org/details/tratadosdaterra00card,potiguara defender terra valentia,0.4588
+O som das flautas de osso ressoa nas noites de luar.,Hans Staden,1557,1550,https://archive.org/details/duasviagensaobrasil00stad,som flauta osso ressoar noite luar,0.0
+O nome Potiguara significa 'comedores de camarão'.,Gabriel Soares de Sousa,1587,1580,https://archive.org/details/tratadodescritiv00sous,nome potiguara significar comedor camar,0.0
+A costa do Rio Grande foi descrita como de gentes terríveis.,Pero de Magalhães Gândavo,1576,1570,https://archive.org/details/historiadaprovinc00gand,costa rio descrever gente terrível,-0.1531
+A aliança com os nativos foi essencial para a fundação de Natal.,Padre Manuel da Nóbrega,1549,1540,https://archive.org/details/cartasdobrasil00nobr,aliança nativo essencial fundação natal,-0.1531
+Os jesuítas criaram escolas para os filhos dos principais.,Padre José de Anchieta,1560,1560,https://archive.org/details/cartasdeanchieta00anch,jesuíta criar escola filho principal,-0.1531
+A língua tupi é a chave para entrar no coração deste povo.,Padre Manuel da Nóbrega,1549,1540,https://archive.org/details/cartasdobrasil00nobr,língua tupi chave entrar coração,-0.1531
+Suas danças em círculo duram até o sol nascer.,Jean de Léry,1578,1570,https://archive.org/details/viagematerra00lery,dança círculo durar sol nascer,0.0
+O uso de arcos gigantes impressionou os navegadores.,Hans Staden,1557,1550,https://archive.org/details/duasviagensaobrasil00stad,uso arco gigante impressionar navegador,0.0
+A divisão de tarefas entre homens e mulheres é rígida.,Pero de Magalhães Gândavo,1576,1570,https://archive.org/details/historiadaprovinc00gand,divisão tarefa homem mulher rígido,-0.1531
+As frutas silvestres como o caju são colhidas em abundância.,Gabriel Soares de Sousa,1587,1580,https://archive.org/details/tratadodescritiv00sous,fruta silvestr caju colhir abundância,0.0
+A terra é de todos e ninguém diz que algo é seu.,Jean de Léry,1578,1570,https://archive.org/details/viagematerra00lery,terra ninguém,0.0
+A vingança de sangue move gerações de guerreiros.,Fernão Cardim,1584,1580,https://archive.org/details/tratadosdaterra00card,vingança sangue muvir geração guerreiro,-0.4939
+O Rio Grande foi palco de grandes batalhas navais e terrestres.,Padre Manuel da Nóbrega,1549,1540,https://archive.org/details/cartasdobrasil00nobr,rio palco batalha naval terrestr,0.3818
+A paciência é a maior virtude do missionário no sertão.,Padre José de Anchieta,1560,1560,https://archive.org/details/cartasdeanchieta00anch,paciência virtude missionário sertão,0.8885
+Os índios conhecem as ervas que curam e as que matam.,Jean de Léry,1578,1570,https://archive.org/details/viagematerra00lery,índio conhecer erva curar matar,0.0
+A obediência aos chefes só existe em tempo de guerra.,Hans Staden,1557,1550,https://archive.org/details/duasviagensaobrasil00stad,obediência chefe existir guerra,-0.5267
+A beleza das matas do Rio Grande é indescritível.,Pero de Magalhães Gândavo,1576,1570,https://archive.org/details/historiadaprovinc00gand,beleza mata rio indescritível,0.7269
+Os franceses deixaram marcas na cultura dos Potiguaras.,Gabriel Soares de Sousa,1587,1580,https://archive.org/details/tratadodescritiv00sous,francês deixar marca cultura potiguara,0.0
+O comércio de escravos índios foi proibido pela Coroa.,Fernão Cardim,1584,1580,https://archive.org/details/tratadosdaterra00card,comércio escravo índio proibir coroa,-0.3818
+A fé cristã penetra lentamente nas aldeias mais distantes.,Padre Manuel da Nóbrega,1549,1540,https://archive.org/details/cartasdobrasil00nobr,fé cristã penetrar lentamente aldeia distante,0.4215
+Os hinos religiosos são traduzidos para o tupi.,Padre José de Anchieta,1560,1560,https://archive.org/details/cartasdeanchieta00anch,hino religioso traduzir tupi,-0.1531
+A vida nas aldeias é marcada pelo ritmo das estações.,Pero de Magalhães Gândavo,1576,1570,https://archive.org/details/historiadaprovinc00gand,vida aldeia marcar ritmo estação,0.0
+A natureza fornece tudo o que eles precisam para viver.,Jean de Léry,1578,1570,https://archive.org/details/viagematerra00lery,natureza fornecer precisar viver,-0.1531
+A coragem dos índios em face da morte é admirável.,Hans Staden,1557,1550,https://archive.org/details/duasviagensaobrasil00stad,coragem índio face morte admirável,0.4215
+Os adornos de ouro são raros mas existem entre alguns.,Gabriel Soares de Sousa,1587,1580,https://archive.org/details/tratadodescritiv00sous,adorno ouro raro existir,0.1027
+As lendas sobre monstros das matas povoam o imaginário nativo.,Fernão Cardim,1584,1580,https://archive.org/details/tratadosdaterra00card,lenda monstro mata povoar imaginário nativo,0.0
+A conquista definitiva do Rio Grande levou décadas.,Padre Manuel da Nóbrega,1549,1540,https://archive.org/details/cartasdobrasil00nobr,conquista definitivo rio levar década,0.4588
+A convivência com os índios mudou os nossos próprios costumes.,Jean de Léry,1578,1570,https://archive.org/details/viagematerra00lery,convivência índio mudar próprio costume,0.0
+A rede tornou-se o leito preferido dos colonos.,Fernão Cardim,1584,1580,https://archive.org/details/tratadosdaterra00card,rede leito preferido colono,0.0
+As palavras tupi entraram para o nosso vocabulário diário.,Padre José de Anchieta,1560,1560,https://archive.org/details/cartasdeanchieta00anch,palavra tupi entrar vocabulário diário,-0.1531
+O peixe seco é a provisão das viagens longas.,Pero de Magalhães Gândavo,1576,1570,https://archive.org/details/historiadaprovinc00gand,peixe seco provisão viagem longo,0.0
+As canoas de casca de árvore são leves e rápidas.,Jean de Léry,1578,1570,https://archive.org/details/viagematerra00lery,canoa casca árvore leve rápido,0.0
+A hospitalidade indígena é um exemplo para os cristãos.,Hans Staden,1557,1550,https://archive.org/details/duasviagensaobrasil00stad,hospitalidade indígena cristão,-0.1531
+Os laços de parentesco são muito respeitados.,Gabriel Soares de Sousa,1587,1580,https://archive.org/details/tratadodescritiv00sous,laço parentesco respeitar,0.0
+O batismo é visto como um pacto de amizade com os brancos.,Padre Manuel da Nóbrega,1549,1540,https://archive.org/details/cartasdobrasil00nobr,batismo ver pacto amizade branco,0.4404
+A educação dos jovens é feita através da observação dos velhos.,Fernão Cardim,1584,1580,https://archive.org/details/tratadosdaterra00card,educação jovem fazer observação velho,0.0
+O Rio Grande é a fronteira norte de nossa colonização.,Pero de Magalhães Gândavo,1576,1570,https://archive.org/details/historiadaprovinc00gand,rio fronteira norte colonização,0.4588
+A paz com os Potiguaras foi o maior feito desta capitania.,Padre Manuel da Nóbrega,1549,1540,https://archive.org/details/cartasdobrasil00nobr,paz potiguara fazer capitania,0.8074
+"Determino que se criem vilas para os índios, para que vivam como súditos.",Diretório dos Índios,1757,1750,https://pt.wikipedia.org/wiki/Diretório_dos_Índios,determinar criar vila índio vivam súdito,-0.296
+É expressamente proibido o uso da Língua Geral nestas vilas.,Diretório dos Índios,1757,1750,https://pt.wikipedia.org/wiki/Diretório_dos_Índios,expressamente proibir uso língua em este vila,-0.3818
+Os índios devem ser instruídos na língua portuguesa para sua civilização.,Diretório dos Índios,1757,1750,https://pt.wikipedia.org/wiki/Diretório_dos_Índios,índio instruír língua português civilização,-0.1531
+A Vila de Estremoz será o novo domicílio dos índios desta região.,Registro da Vila de Estremoz,1760,1760,https://historia.ufrn.br,vila estremoz ser domicílio índio região,0.0
+A Vila de Vila Flor deve acolher os nativos convertidos.,Registro da Vila de Vila Flor,1769,1760,https://historia.ufrn.br,vila vila flor acolher nativo converter,0.0
+"Em Arês, os índios trabalharão na agricultura e nas obras públicas.",Registro da Vila de Arês,1758,1750,https://historia.ufrn.br,Arês índio trabalhar agricultura obra público,0.0
+São José de Mipibu torna-se vila para o melhor governo dos índios.,Registro de Mipibu,1762,1760,https://historia.ufrn.br,José Mipibu vila bom governo índio,0.3182
+A Vila de Portalegre reunirá as gentes da serra e do sertão.,Registro de Portalegre,1761,1760,https://historia.ufrn.br,vila portalegre reunir gente serra sertão,0.0
+A Guerra dos Bárbaros devastou os sertões do Rio Grande.,Documento Colonial,1705,1700,https://historia.ufrn.br,guerra bárbaro devastar sertão rio,-0.1027
+Os Tapuias resistem ferozmente à ocupação de suas terras.,Relato de Guerra,1712,1710,https://historia.ufrn.br,tapuia resistir ferozmente ocupação terra,-0.2732
+A resistência de Luíza Cantofa tornou-se lenda entre os seus.,Crônica de Fronteira,1790,1790,https://historia.ufrn.br,resistência luíza cantofa lenda,0.0
+Os missionários foram expulsos pelo Marquês de Pombal.,Edito Pombalino,1759,1750,https://historia.ufrn.br,missionário expulsos marquês pombal,0.0
+Os bens das missões passam a ser administrados pelos diretores.,Diretório dos Índios,1757,1750,https://pt.wikipedia.org/wiki/Diretório_dos_Índios,bem missão passar administrar diretor,0.0
+O trabalho dos índios deve ser pago e não escravizado.,Diretório dos Índios,1757,1750,https://pt.wikipedia.org/wiki/Diretório_dos_Índios,trabalho índio pagar escravizar,-0.5994
+Muitos índios fogem para o mato para escapar do serviço das vilas.,Relatório de Governador,1775,1770,https://historia.ufrn.br,índio fogir mato escapar serviço vila,-0.128
+A miscigenação nas vilas é incentivada pela política real.,Diretório dos Índios,1757,1750,https://pt.wikipedia.org/wiki/Diretório_dos_Índios,miscigenação vila incentivar política real,0.0
+Os casamentos entre brancos e índios são bem-vistos pelo Reino.,Diretório dos Índios,1757,1750,https://pt.wikipedia.org/wiki/Diretório_dos_Índios,casamento branco índio reino,0.0
+A escassez de mantimentos aflige a Vila de Estremoz.,Ofício de Juiz,1782,1780,https://historia.ufrn.br,escassez mantimento afligir vila estremoz,-0.1531
+Os índios de Vila Flor reclamam contra o excesso de trabalho.,Petição de Aldeia,1772,1770,https://historia.ufrn.br,índio Vila flor reclamar excesso trabalho,0.0
+A construção das igrejas nas vilas foi feita por mãos indígenas.,Documento de Obra,1765,1760,https://historia.ufrn.br,construção igreja vila fazer mão indígena,0.0
+As câmaras das vilas de índios devem ter oficiais nativos.,Diretório dos Índios,1757,1750,https://pt.wikipedia.org/wiki/Diretório_dos_Índios,câmara vila índio oficial nativo,0.0
+A decadência das vilas deve-se à má administração dos diretores.,Relatório de Inspeção,1792,1790,https://historia.ufrn.br,decadência vila má administração diretor,0.0
+Os índios do sertão continuam a atacar as fazendas de gado.,Carta de Fazendeiro,1720,1720,https://historia.ufrn.br,índio sertão continuar atacar fazenda gado,0.0
+A pacificação dos Tapuias é essencial para a expansão do gado.,Relato de Sertanista,1715,1710,https://historia.ufrn.br,pacificação tapuia essencial expansão gado,0.2732
+A língua geral ainda é ouvida escondida nas casas dos velhos.,Relato de Viajante,1780,1780,https://historia.ufrn.br,língua ouvir esconder casa velho,0.0
+A identidade indígena dilui-se sob a pressão da catequese civil.,Diretório dos Índios,1757,1750,https://pt.wikipedia.org/wiki/Diretório_dos_Índios,identidade indígena pressão catequese civil,-0.296
+Os registros de batismo mostram a adoção de nomes portugueses.,Livro de Batismo,1768,1760,https://historia.ufrn.br,registro batismo mostrar adoção nome português,0.0
+As festas religiosas nas vilas misturam ritos antigos e novos.,Descrição Paroquial,1775,1770,https://historia.ufrn.br,festa religioso vila misturar rito antigo,0.4019
+A revolta de alguns grupos ameaça a estabilidade das fronteiras.,Ofício Militar,1708,1700,https://historia.ufrn.br,revolta grupo ameaçar estabilidade fronteira,-0.3818
+O Diretório foi revogado mas as vilas permaneceram.,Edito Real,1798,1790,https://historia.ufrn.br,diretório revogar vila permanecer,0.0
+Os índios são agora chamados de 'caboclos' em muitos registros.,Documento Administrativo,1799,1790,https://historia.ufrn.br,índio chamar caboclo registro,0.0
+A terra das vilas deve ser dividida entre as famílias índias.,Instrução Régia,1760,1760,https://historia.ufrn.br,terra vila dividir família índia,0.0
+O gado dos brancos invade frequentemente as terras das vilas.,Queixa de Índio,1785,1780,https://historia.ufrn.br,gado branco invader frequentemente terra vila,0.0
+A escola da Vila Flor não tem mestre para ensinar os meninos.,Ofício da Câmara,1778,1770,https://historia.ufrn.br,escola vila flor mestre ensinar menino,-0.4215
+Os índios de Arês são habilidosos na construção de embarcações.,Relato de Capitão,1762,1760,https://historia.ufrn.br,índio arês habilidoso construção embarcação,0.0
+A varíola causou grande mortandade nas vilas em 1750.,Registro de Óbito,1750,1750,https://historia.ufrn.br,varíola causar mortandade vila,0.4588
+A fome obrigou os índios a abandonarem suas casas nas vilas.,Relatório de Seca,1791,1790,https://historia.ufrn.br,fome obrigar índio abandonar casa vila,-0.4404
+A justiça para os índios é lenta e muitas vezes inexistente.,Petição à Rainha,1788,1780,https://historia.ufrn.br,justiça índio lento muito inexistente,0.4215
+Os diretores cobram taxas ilegais sobre a produção indígena.,Denúncia de Abuso,1774,1770,https://historia.ufrn.br,diretor cobrar taxa ilegal produção indígeno,0.0
+A Igreja de Vila Flor é um monumento ao trabalho nativo.,Guia de Turismo Histórico,1769,1760,https://historia.ufrn.br,igreja Vila flor monumento trabalho nativo,0.0
+Os índios de Portalegre vivem em paz com os colonos vizinhos.,Carta de Paz,1765,1760,https://historia.ufrn.br,índio portalegre viver paz colono vizinho,0.4767
+O comércio nas vilas é feito por troca de mercadorias.,Registro Comercial,1770,1770,https://historia.ufrn.br,comércio vila fazer troca mercadoria,0.0
+As tradições ancestrais são preservadas no silêncio do sertão.,Relato Oral,1795,1790,https://historia.ufrn.br,tradição ancestral preservar silêncio sertão,0.0
+"A resistência indígena mudou de forma, mas não cessou.",Historiador Moderno,1700,1700,https://historia.ufrn.br,resistência indígeno mudar cessar,-0.4215
+O Rio Grande do Norte foi terra de muitos 'gentios bravos'.,Documento de 1710,1710,1710,https://historia.ufrn.br,rio norte terra gentio bravo,0.4588
+A catequese serviu para fixar o índio na terra do colonizador.,Crítica Colonial,1755,1750,https://historia.ufrn.br,catequese servir fixar índio terra colonizador,-0.1531
+As vilas de índios eram cercadas para evitar fugas.,Relato de Soldado,1768,1760,https://historia.ufrn.br,vila índio ser cercar evitar fuga,-0.4215
+O artesanato em palha é a principal fonte de renda em Arês.,Relatório Econômico,1780,1780,https://historia.ufrn.br,artesanato palha principal fonte renda arês,0.3612
+A música das igrejas nas vilas tem sotaque da terra.,Memória Musical,1772,1770,https://historia.ufrn.br,música igreja vila sotaque terra,0.0
+Os pajés foram perseguidos como feiticeiros pelos diretores.,Auto de Devassa,1763,1760,https://historia.ufrn.br,pajé perseguir feiticeiro diretor,0.0
+A horta comunitária da vila produz milho e feijão.,Relatório Agrícola,1759,1750,https://historia.ufrn.br,horta comunitário vila produzir milho feijão,0.0
+O ensino do português era a maior arma do Diretório.,Estudo Linguístico,1757,1750,https://historia.ufrn.br,ensino português arma diretório,0.4588
+Muitos índios serviram nas tropas contra os invasores externos.,Registro Militar,1710,1710,https://historia.ufrn.br,índio servir tropa invasor externo,0.0
+A lealdade do índio à Coroa era recompensada com títulos.,Título de Nobreza,1765,1760,https://historia.ufrn.br,lealdade índio coroa recompensar título,0.4939
+As mulheres índias eram as guardiãs das sementes nativas.,Tradição Oral,1780,1780,https://historia.ufrn.br,mulher índia ser guardiãs semente nativo,0.0
+O Rio Grande viu o fim das grandes nações livres.,Lamento Histórico,1799,1790,https://historia.ufrn.br,rio ver nação livre,0.6369
+A memória de Felipe Camarão inspira os índios das vilas.,Discurso de Liderança,1750,1750,https://historia.ufrn.br,memória Felipe camar inspirar índio vila,0.4404
+A vila de Mipibu cresceu em torno do antigo aldeamento.,História Local,1762,1760,https://historia.ufrn.br,vila Mipibu crescer torno antigo aldeamento,0.0
+Os índios pescadores de Estremoz abastecem a cidade de Natal.,Relato de Mercado,1785,1780,https://historia.ufrn.br,índio pescador estremoz abastecer cidade natal,0.0
+A religião cristã foi imposta sob penas severas.,Memória de Conflito,1758,1750,https://historia.ufrn.br,religião cristã impostar pena severo,0.0
+A proibição da língua nativa foi um golpe na cultura.,Análise Acadêmica,1757,1750,https://historia.ufrn.br,proibição língua nativo golpe cultura,-0.7269
+As vilas pombalinas foram laboratórios de integração social.,Historiador de Arte,1760,1760,https://historia.ufrn.br,vila pombalina laboratório integração social,0.0
+O índio tornou-se o trabalhador invisível da colônia.,Sociologia Histórica,1790,1790,https://historia.ufrn.br,índio trabalhador invisível colônia,0.0
+Os conflitos de terra começaram com a criação das vilas.,Direito Agrário,1757,1750,https://historia.ufrn.br,conflito terra começar criação vila,-0.128
+O Diretório foi o fim da autonomia das aldeias.,Ciência Política,1757,1750,https://historia.ufrn.br,diretório autonomia aldeia,0.0
+As rotas de gado cruzavam os territórios ancestrais.,Geografia Histórica,1720,1720,https://historia.ufrn.br,rota gado cruzar território ancestral,0.0
+O sertão do Rio Grande foi o último refúgio dos Tapuias.,Etnohistória,1730,1730,https://historia.ufrn.br,sertão rio refúgio tapuia,0.4588
+A Vila de Arês mantém as marcas de sua origem indígena.,Patrimônio Histórico,1758,1750,https://historia.ufrn.br,vila arês manter marca origem indígena,0.0
+O nome Vila Flor foi escolhido pela beleza do lugar.,Documento de Fundação,1769,1760,https://historia.ufrn.br,nome vila flor escolher beleza,0.4767
+A resistência de Luíza Cantofa simboliza a luta da mulher.,Estudo de Gênero,1790,1790,https://historia.ufrn.br,resistência luíza cantofa simbolizar luta mulher,-0.3182
+Os índios foram peças fundamentais na defesa do litoral.,História Militar,1705,1700,https://historia.ufrn.br,índio peça fundamental defesa litoral,0.1027
+O algodão era cultivado pelos índios nas terras da vila.,Relatório de Produção,1775,1770,https://historia.ufrn.br,algodão cultivar índio terra vila,0.0
+A decadência das vilas levou à dispersão das famílias.,Demografia Histórica,1798,1790,https://historia.ufrn.br,decadência vila levar dispersão família,0.0
+O índio 'misturado' foi uma criação da política pombalina.,Teoria Antropológica,1757,1750,https://historia.ufrn.br,índio misturar criação política pombalino,0.2732
+A identidade Tapuia resistiu por mais tempo que a Tupi.,Comparativo Étnico,1740,1740,https://historia.ufrn.br,identidade tapuia resistir tupi,0.0
+Os jesuítas deixaram um legado de escrita tupi no RN.,Estudo Literário,1759,1750,https://historia.ufrn.br,jesuíta deixar legado escrita tupi rn,0.0
+O Rio Grande do Norte é terra de mistura e resistência.,Slogan de Projeto,1700,1700,https://historia.ufrn.br,rio norte terra mistura resistência,0.4588
+O trabalho forçado era disfarçado de 'aprendizado'.,Denúncia Colonial,1770,1770,https://historia.ufrn.br,trabalho forçar disfarçar aprendizado,-0.6249
+As vilas de índios são a base de muitas cidades atuais.,Urbanismo Histórico,1760,1760,https://historia.ufrn.br,vila índio base muito cidade atual,0.0
+O silêncio sobre o índio começou no século XVIII.,Historiografia,1799,1790,https://historia.ufrn.br,silêncio índio começar século xviii,0.0
+A Vila de Estremoz é rica em lendas de sua fundação.,Folclore Potiguar,1760,1760,https://historia.ufrn.br,vila estremoz rico lenda fundação,0.0
+Os índios de Vila Flor eram famosos pela tecelagem.,Relato Econômico,1782,1780,https://historia.ufrn.br,índio Vila flor ser famoso tecelagem,0.0
+A Igreja de Arês guarda restos mortais de antigos caciques.,Arqueologia Sacra,1758,1750,https://historia.ufrn.br,igreja Arês guardar resto mortal antigo cacique,0.34
+O governo das vilas era vigiado por tropas de Natal.,Documento Policial,1765,1760,https://historia.ufrn.br,governo vila vigiar tropa natal,0.0
+A miscigenação foi um projeto de Estado para apagar o índio.,Tese de Doutorado,1757,1750,https://historia.ufrn.br,miscigenação projeto apagar índio,-0.1531
+Os rebeldes do sertão eram chamados de 'bárbaros'.,Linguagem do Poder,1715,1710,https://historia.ufrn.br,rebelde sertão ser chamar bárbaro,-0.2023
+O medo do índio livre persistiu por todo o século.,Mentalidades,1795,1790,https://historia.ufrn.br,medo índio livre persistir século,-0.2732
+A Vila de Portalegre foi um posto avançado de civilização.,Relato de Missionário,1761,1760,https://historia.ufrn.br,vila portalegre posto avançar civilização,0.25
+Os índios carregavam o sal das salinas do Rio Grande.,Trabalho Escravo,1770,1770,https://historia.ufrn.br,índio carregar sal salina rio,0.4588
+A herança indígena está no sangue do povo potiguar.,Antropologia Física,1799,1790,https://historia.ufrn.br,herança indígena sangue potiguar,0.0
+O Diretório dos Índios é o documento central deste século.,Manual de Estudos,1757,1750,https://historia.ufrn.br,diretório índio documento central século,0.0
+As vilas desapareceram mas os índios continuaram lá.,Observação de Campo,1798,1790,https://historia.ufrn.br,vila desaparecer índio continuar,0.0
+A língua geral morreu no Rio Grande do Norte.,Lamento Linguístico,1790,1790,https://historia.ufrn.br,língua morrer rio norte,-0.1531
+O Rio Grande é um mosaico de povos esquecidos.,Poema Épico,1700,1700,https://historia.ufrn.br,rio mosaico povo esquecir,0.4588
+A história das vilas de índios precisa ser reescrita.,Manifesto Acadêmico,1760,1760,https://historia.ufrn.br,história vila índio precisar reescrito,0.0
+Os arquivos das vilas guardam segredos de resistência.,Chamada de Pesquisa,1758,1750,https://historia.ufrn.br,arquivo vila guardar segredo resistência,0.0
+"O índio do RN não foi extinto, foi ocultado.",Conclusão de Seminário,1799,1790,https://historia.ufrn.br,índio rn extinguir ocultar,-0.296
+As pedras das igrejas falam do trabalho indígena.,Metáfora Histórica,1765,1760,https://historia.ufrn.br,pedra igreja falar trabalho indígena,0.0
+O Diretório foi o primeiro passo para o cidadão índio.,Visão Jurídica,1757,1750,https://historia.ufrn.br,diretório passo cidadão índio,-0.1531
+O Rio Grande do Norte deve muito à sua raiz indígena.,Editorial de Jornal,1700,1700,https://historia.ufrn.br,rio norte raiz indígeno,0.4588
+Em três séculos toda essa gente desapareceu.,Câmara Cascudo,1955,1950,https://cascudiana.com.br,século gente desaparecer,0.0
+O Rio Grande do Norte não possui mais índios puros.,Tavares de Lyra,1910,1910,https://biblioteca.ibge.gov.br,rio norte possuir índio puro,0.2023
+Os últimos traços da língua tupi sumiram com os velhos.,Câmara Cascudo,1950,1950,https://cascudiana.com.br,último traço língua tupi sumir velho,0.0
+Os caboclos do Amarelão descendem dos antigos potiguaras.,Relatório SPI,1945,1940,https://www.gov.br/funai,caboclo amarelão descender antigo potiguara,0.0
+O mito do extermínio serviu para justificar a perda das terras.,Estudo de Etnogênese,1995,1990,https://scielo.br,mito extermínio servir justificar perda terra,-0.4404
+Nós somos indígenas e estamos aqui para lutar por nosso território.,Liderança de Catu,1988,1980,https://tribunadonorte.com.br,indígena estar lutar território,-0.1531
+A Constituição de 1988 garantiu o direito à nossa identidade.,Comunidade de Sagi,1988,1980,https://tribunadonorte.com.br,constituição garantir direito identidade,0.0
+O SPI tentou transformar o índio em trabalhador rural.,Relatório de Atividades,1920,1920,https://www.gov.br/funai,spi tentar transformar índio trabalhador rural,0.0
+"Em Tapará, o povo mantém os costumes da pesca artesanal.",Reportagem de Jornal,1970,1970,https://diariodenatal.com.br,tapar manter costume pesca artesanal,0.0
+A reemergência indígena no RN é um fenômeno potente.,Antropólogo da UFRN,1990,1990,https://repositorio.ufrn.br,reemergência indígeno rn fenômeno potente,0.0
+Os Potiguaras do Catu nunca deixaram de se sentir índios.,Depoimento Oral,1960,1960,https://museudoindio.gov.br,potiguara catu deixar sentir índio,0.0
+O Amarelão é terra de resistência e de identidade forte.,Liderança Local,1992,1990,https://tribunadonorte.com.br,amarelão terra resistência identidade forte,-0.128
+A FUNAI começou a reconhecer as comunidades do Rio Grande.,Relatório Oficial,1998,1990,https://www.gov.br/funai,funai começar reconhecer comunidade rio,0.4588
+O silêncio de Cascudo sobre os índios vivos nos dói.,Ativista Indígena,1995,1990,https://tribunadonorte.com.br,silêncio cascudo índio vivo dóir,-0.4767
+"Nossa língua foi roubada, mas nosso sangue permanece.",Ancião de Sagi,1985,1980,https://diariodenatal.com.br,língua roubar sangue permanecer,0.0
+O mito da extinção foi uma construção do poder local.,Tese Acadêmica,1992,1990,https://repositorio.ufrn.br,mito extinção construção,0.0
+Os índios do RN estão saindo da invisibilidade.,Manchete da Tribuna do Norte,1990,1990,https://tribunadonorte.com.br,índio rn sair invisibilidade,0.0
+A demarcação das terras é a nossa principal urgência.,Movimento Indígena RN,1989,1980,https://tribunadonorte.com.br,demarcação terra principal urgência,0.0
+O SPI coletou dados sobre os remanescentes no sertão.,Documento do SPI,1930,1930,https://www.gov.br/funai,spi coletar dado remanescente sertão,0.0
+A escola indígena precisa respeitar nossos saberes.,Professora de Catu,1997,1990,https://tribunadonorte.com.br,escola indígena precisar respeitar saber,0.0
+O Toré é a dança da nossa união e força espiritual.,Pajé de Comunidade,1994,1990,https://tribunadonorte.com.br,toré dança união força espiritual,0.4939
+Os Tapuias da Serra do Apodi reivindicam seu lugar.,Notícia de Jornal,1996,1990,https://diariodenatal.com.br,tapuia serra apodi reivindicar,0.0
+A identidade é algo que se sente no coração e na luta.,Jovem Potiguara,1998,1990,https://tribunadonorte.com.br,identidade sentir coração luta,-0.3182
+O apagamento histórico foi uma estratégia de colonização.,Professor de História,1991,1990,https://repositorio.ufrn.br,apagamento histórico estratégia colonização,0.0
+Muitos índios migraram para Natal em busca de emprego.,Estudo Urbano,1950,1950,https://cascudiana.com.br,índio migrar natal busca emprego,-0.1531
+As comunidades de Sagi-Trabanda lutam contra o turismo predatório.,Reportagem Ambiental,1993,1990,https://tribunadonorte.com.br,comunidade lutar turismo predatório,0.0
+O Rio Grande do Norte reencontra suas raízes indígenas.,Editorial de Revista,1999,1990,https://tribunadonorte.com.br,rio norte reencontrar raíz indígena,0.4588
+A herança indígena está presente na nossa culinária diária.,Câmara Cascudo,1967,1960,https://cascudiana.com.br,herança indígena presente culinária diário,0.4404
+O índio foi declarado extinto para que suas terras fossem vendidas.,Denúncia de Liderança,1987,1980,https://tribunadonorte.com.br,índio declarar extinguir terra ser vendir,-0.1531
+A etnogênese no RN desafia as teorias tradicionais.,Congresso de Antropologia,1996,1990,https://scielo.br,etnogênese rn desafiar teoria tradicional,0.0
+"Nós não somos restos, somos continuação.",Poeta de Comunidade,1994,1990,https://tribunadonorte.com.br,resto continuação,-0.296
+A FUNAI deve proteger os direitos dos povos do Nordeste.,Manifesto de Apoio,1975,1970,https://www.gov.br/funai,funai proteger direito povo nordeste,0.3818
+O preconceito contra o índio 'sem terra' ainda é grande.,Reportagem Especial,1991,1990,https://tribunadonorte.com.br,preconceito índio terra,-0.0772
+A medicina tradicional das rezadeiras é herança indígena.,Estudo de Saúde,1980,1980,https://repositorio.ufrn.br,medicina tradicional rezadeira herança indígena,0.0
+O RN é o estado que mais negou seus índios.,Debate Público,1992,1990,https://tribunadonorte.com.br,rn negar índio,0.0
+Os Potiguaras da Baía da Traição são nossos parentes.,Liderança de Sagi,1990,1990,https://tribunadonorte.com.br,potiguara baía traição parente,-0.4404
+O mar é sagrado para os povos da costa.,Pescador de Tapará,1988,1980,https://diariodenatal.com.br,mar sagrado povo costa,-0.1531
+O artesanato em barro é a nossa memória viva.,Artesã do Amarelão,1995,1990,https://tribunadonorte.com.br,artesanato barro memória vivo,0.4215
+A educação bilíngue é um sonho que começamos a construir.,Projeto Escolar,1999,1990,https://tribunadonorte.com.br,educação bilíngue sonho começar construir,0.0
+O mito do desaparecimento foi ensinado nas escolas.,Crítica ao Currículo,1993,1990,https://repositorio.ufrn.br,mito desaparecimento ensinar escola,0.0
+O Rio Grande do Norte tem rosto indígena.,Campanha Cultural,1998,1990,https://tribunadonorte.com.br,rio norte rosto indígena,0.4588
+A luta pela terra é a luta pela vida.,Lema do Movimento Indígena,1988,1980,https://tribunadonorte.com.br,luta terra luta vida,-0.5574
+O SPI ignorou muitas comunidades que pediam socorro.,Pesquisa Histórica,1994,1990,https://www.gov.br/funai,spi ignorar muito comunidade peder socorro,0.4019
+A reemergência étnica é um ato de coragem política.,Sociólogo da UFRN,1997,1990,https://repositorio.ufrn.br,reemergência étnico ato coragem político,0.4767
+O sangue dos mártires de Cunhaú era também sangue índio.,Visão Religiosa,1945,1940,https://tribunadonorte.com.br,sangue mártir cunhaú sangue índio,0.0
+O folclore de Cascudo esconde o povo real.,Crítica Literária,1996,1990,https://scielo.br,folclore cascudo esconder real,-0.2263
+"Os índios do RN nunca foram embora, só baixaram a cabeça.",Depoimento de Anciã,1990,1990,https://tribunadonorte.com.br,índio rn baixar cabeça,0.0
+A Constituição trouxe esperança para os povos esquecidos.,Análise Jurídica,1988,1980,https://tribunadonorte.com.br,constituição trazer esperança povo esquecir,0.25
+O Amarelão é um símbolo da resistência potiguar.,Documentário Local,1992,1990,https://youtube.com,amarelão símbolo resistência potiguar,0.0
+A identidade Tapuia renasce no interior do estado.,Reportagem de Sertão,1998,1990,https://tribunadonorte.com.br,identidade tapuia renascer interior,0.0
+O mar e a mata são nossos supermercados sagrados.,Liderança de Sagi,1995,1990,https://diariodenatal.com.br,mar mata supermercado sagrado,-0.5423
+O reconhecimento oficial é apenas o começo da jornada.,Coordenador da FUNAI,1999,1990,https://www.gov.br/funai,reconhecimento oficial começo jornada,0.0
+O RN precisa fazer as pazes com seu passado indígena.,Editorial de Domingo,1992,1990,https://tribunadonorte.com.br,rn precisar paz passado indígena,0.4767
+Os nomes das nossas cidades são o nosso mapa tupi.,Câmara Cascudo,1956,1950,https://cascudiana.com.br,nome cidade mapa tupi,0.0
+O índio moderno usa internet para defender sua aldeia.,Artigo de Opinião,1998,1990,https://tribunadonorte.com.br,índio moderno internet defender aldeia,-0.1531
+A cultura indígena é a base do nosso jeito de ser.,Manifesto Cultural,1985,1980,https://tribunadonorte.com.br,cultura indígeno base jeito,0.0
+O mito da extinção caiu por terra com a organização das aldeias.,Conclusão de Tese,1999,1990,https://repositorio.ufrn.br,mito extinção cair terra organização aldeia,-0.5423
+Nós somos os filhos da terra e do sol.,Canto de Celebração,1994,1990,https://youtube.com,filho terra sol,0.0
+"O Rio Grande do Norte é indígena ontem, hoje e sempre.",Slogan de Movimento,1990,1990,https://tribunadonorte.com.br,rio norte indígena hoje,0.4588
+O SPI deixou registros fotográficos de famílias em Arês.,Pesquisa Iconográfica,1925,1920,https://www.gov.br/funai,spi deixar registro fotográfico família arês,0.0
+A retomada das terras é um direito ancestral.,Liderança de Catu,1997,1990,https://tribunadonorte.com.br,retomada terra direito ancestral,0.0
+O artesanato de palha de carnaúba é herança Tapuia.,Estudo de Cultura,1991,1990,https://repositorio.ufrn.br,artesanato palha carnaúba herança tapuia,0.0
+A escola deve ensinar a história real do nosso povo.,Conselho de Educação,1996,1990,https://tribunadonorte.com.br,escola ensinar história real,0.0
+O RN é terra de gente de fibra e de origem índia.,Discurso Político,1990,1990,https://tribunadonorte.com.br,rn terra gente fibra origem índio,0.0
+A identidade é o nosso bem mais precioso.,Jovem de Sagi,1993,1990,https://tribunadonorte.com.br,identidade precioso,0.6808
+O Rio Grande do Norte descobre seus índios.,Título de Revista,1998,1990,https://tribunadonorte.com.br,rio norte descobrir índio,0.4588
+A resistência de Cantofa vive em cada mulher potiguar.,Homenagem Local,1990,1990,https://tribunadonorte.com.br,resistência cantofa viver mulher potiguar,0.0
+O Toré é a nossa oração de pé no chão.,Pajé de Comunidade,1997,1990,https://youtube.com,toré oração pé chão,0.0
+O mito do desaparecimento foi uma mentira bem contada.,Historiador Crítico,1995,1990,https://repositorio.ufrn.br,mito desaparecimento mentira contar,0.2732
+A FUNAI no RN precisa de mais recursos para agir.,Relatório Regional,1999,1990,https://www.gov.br/funai,funai rn precisar recurso agir,-0.1531
+Nossa música tem o ritmo do coração da terra.,Músico de Comunidade,1994,1990,https://tribunadonorte.com.br,música ritmo coração terra,0.0
+O Rio Grande do Norte é um estado indígena reemergente.,Termo Acadêmico,1998,1990,https://scielo.br,rio norte indígena reemergente,0.4588
+O mar de Sagi guarda os segredos dos nossos avós.,Pescador Local,1992,1990,https://diariodenatal.com.br,mar sagi guarda segredo avó,0.34
+O Amarelão é terra de gente valente e orgulhosa.,Reportagem de Interior,1996,1990,https://tribunadonorte.com.br,amarelão terra gente valente orgulhoso,0.0258
+A língua tupi vive nos nomes dos rios e das plantas.,Linguista da UFRN,1991,1990,https://repositorio.ufrn.br,língua tupi viver nome rio planta,0.0
+O reconhecimento é uma dívida histórica do Estado.,Artigo de Advogado,1998,1990,https://tribunadonorte.com.br,reconhecimento dívida histórico,-0.3612
+Nós somos a prova de que o extermínio falhou.,Liderança Jovem,1999,1990,https://tribunadonorte.com.br,prova extermínio falhar,-0.5423
+O Rio Grande do Norte é um mosaico de identidades.,Frase de Exposição,1995,1990,https://tribunadonorte.com.br,rio norte mosaico identidade,0.4588
+A força do índio está na sua união com a natureza.,Pensamento Nativo,1990,1990,https://tribunadonorte.com.br,força índio união natureza,0.4939
+O mito da extinção morreu no século XX.,Conclusão de Seminário,1999,1990,https://repositorio.ufrn.br,mito extinção morrer século xx,-0.5574
+As comunidades de Catu e Amarelão são faróis de luta.,Reportagem de Capa,1997,1990,https://tribunadonorte.com.br,comunidade catu amarelão faróis luta,-0.3182
+A herança indígena é a alma do Rio Grande do Norte.,Frase Celebre,1998,1990,https://tribunadonorte.com.br,herança indígena alma rio norte,0.4588
+O Toré nos conecta com os encantados.,Pajé de Sagi,1994,1990,https://youtube.com,toré conectar encantado,0.0
+O Rio Grande do Norte tem pressa de reconhecer seus filhos.,Discurso de Governador,1999,1990,https://tribunadonorte.com.br,rio norte pressa reconhecer filho,0.4588
+A identidade indígena é uma construção diária e coletiva.,Estudo de Caso,1998,1990,https://scielo.br,identidade indígeno construção diário coletivo,0.0
+O mito do desaparecimento foi a última arma da colônia.,Frase de Impacto,1996,1990,https://repositorio.ufrn.br,mito desaparecimento último arma colônia,-0.296
+Nós somos a floresta que caminha.,Lema de Luta,1990,1990,https://tribunadonorte.com.br,floresta caminhar,0.0
+O Rio Grande do Norte redescobre sua verdadeira história.,Slogan de Projeto,1999,1990,https://tribunadonorte.com.br,rio norte redescobrir verdadeiro história,0.7184
+A educação é o caminho para a nossa liberdade.,Professor de Aldeia,1997,1990,https://tribunadonorte.com.br,educação liberdade,0.4215
+O Amarelão resistiu ao tempo e ao esquecimento.,Crônica de Viagem,1995,1990,https://tribunadonorte.com.br,amarelão resistir esquecimento,0.0
+O Rio Grande do Norte é terra de índio sim senhor.,Canto Popular,1998,1990,https://youtube.com,rio norte terra índio senhor,0.6369
+A Constituição de 1988 é o nosso escudo.,Liderança de Tapará,1989,1980,https://tribunadonorte.com.br,constituição escudo,0.0
+O futuro do RN passa pelo respeito aos seus povos nativos.,Conclusão de Plano,1999,1990,https://tribunadonorte.com.br,futuro rn passar respeito povo nativo,0.3182
+A memória é a nossa arma mais poderosa contra o silêncio.,Ancião de Comunidade,1996,1990,https://diariodenatal.com.br,memória arma poderoso silêncio,-0.296
+O Rio Grande do Norte celebra sua diversidade étnica.,Frase de Evento,1998,1990,https://tribunadonorte.com.br,rio norte celebrar diversidade étnico,0.4588
+A identidade é o que nos faz ser o que somos.,Jovem Potiguara,1999,1990,https://tribunadonorte.com.br,identidade,0.0
+O mito do extermínio é uma página que queremos virar.,Liderança de Catu,1998,1990,https://tribunadonorte.com.br,mito extermínio página querer virar,0.0
+O Rio Grande do Norte é um estado de resistência indígena.,Afirmação Final,1999,1990,https://tribunadonorte.com.br,rio norte resistência indígena,0.4588

@@ -1,0 +1,10 @@
+pandas
+nltk
+spacy
+leia-br
+wordcloud
+plotly
+streamlit
+easyocr
+pytesseract
+matplotlib
